@@ -1,9 +1,5 @@
 # SortingAlgorithms
 
-<p align="right" id="time"></p>
-
-<script src="js/time.js"></script>
-
 
 ## Sorting algorithms 
 
